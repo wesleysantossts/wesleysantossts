@@ -15,7 +15,7 @@
 <br>
 <div>
     <a href='https://github.com/wesleysantossts'>
-    <img max-width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=wesleysantossts&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" /> <img height="160em" max-width="45%" 
+    <img max-width="45%" height="170em" src="https://github-readme-stats.vercel.app/api?username=wesleysantossts&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" /> <img height="170em" max-width="45%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantossts&amp;layout=compact&amp;langs_count=16&amp;theme=dracula"/></a>
 </div>
 
