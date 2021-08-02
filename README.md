@@ -15,7 +15,7 @@
 <br>
 <div>
     <a href='https://github.com/wesleysantossts'>
-    <img max-width="45%" height="170em" src="https://github-readme-stats.vercel.app/api?username=wesleysantossts&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" /> <img height="170em" max-width="45%" 
+    <img max-width="45%" height="165em" src="https://github-readme-stats.vercel.app/api?username=wesleysantossts&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" /> <img height="165em" max-width="45%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantossts&amp;layout=compact&amp;langs_count=16&amp;theme=dracula"/></a>
 </div>
 
@@ -24,13 +24,12 @@
     <br>
     <img align="center" alt="Wesley-Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"> -
     <img align="center" alt="Wesley-CSS" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"> -
-    <img align="center" alt="Wesley-HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
-    
+    <img align="center" alt="Wesley-HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"> -
+    <img align="center" alt="Wesley-Git" height="48" width="48" src="https://img.icons8.com/color/48/000000/git.png"/>    
 </div>
 <br><br>
 🔥 <strong> Outras ferramentas </strong> <br><br>
 <div>
-    <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/git.png"/> - &nbsp
     <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/bootstrap.png"> - &nbsp 
     <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
