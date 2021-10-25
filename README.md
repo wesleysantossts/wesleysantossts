@@ -9,7 +9,7 @@
 </div><br><br>
 
 🎓 Cursando Sistemas para Internet no SENAC.<br>
-🌱 Estudando Javascript e Node.js.<br>
+🌱 Estudando React e Node.js.<br>
 💻 Compartilhando conteúdos de desenvolvimento (estudos, desafios, projetos) e da vida de dev.
  
 <br>
@@ -25,12 +25,13 @@
     <img align="center" alt="Wesley-Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"> -
     <img align="center" alt="Wesley-CSS" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"> -
     <img align="center" alt="Wesley-HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"> -
-    <img align="center" alt="Wesley-Git" height="48" width="48" src="https://img.icons8.com/color/48/000000/git.png"/>    
+    <img align="center" alt="Wesley-Git" height="48" width="48" src="https://img.icons8.com/color/48/000000/git.png"/> 
 </div>
 <br><br>
 🔥 <strong> Outras ferramentas </strong> <br><br>
 <div>
-    <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/bootstrap.png"> - &nbsp 
+    <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/bootstrap.png"> - &nbsp
+    <img align="center" alt="Wesley-Git" height="48" width="48" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> - &nbsp
     <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
 <br>
