@@ -34,5 +34,3 @@
     <img align="center" alt="Wesley-Git" height="48" width="48" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> - &nbsp
     <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
-<br>
-<strong> Enjoy! 🤟🏻 </strong>
