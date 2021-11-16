@@ -1,4 +1,4 @@
-# Olá! Sou Wesley Santos e seja bem-vindo(a) ao meu Github 🤟🏻 
+# Olá! Sou Wesley Santos e seja bem-vindo(a) ao meu Github!
 
 <div>
     <a href="https://github.com/wesleysantossts"> 
@@ -22,15 +22,16 @@
 <div>
     <br>
     <br>
-    <img align="center" alt="Wesley-Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"> -
-    <img align="center" alt="Wesley-CSS" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"> -
-    <img align="center" alt="Wesley-HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"> -
-    <img align="center" alt="Wesley-Git" height="48" width="48" src="https://img.icons8.com/color/48/000000/git.png"/> 
+    <img align="center" alt="Javascript" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"> -
+    <img align="center" alt="CSS" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"> -
+    <img align="center" alt="HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"> -
+    <img align="center" alt="Git" height="48" width="48" src="https://img.icons8.com/color/48/000000/git.png"/> 
 </div>
 <br><br>
 🔥 <strong> Outras ferramentas </strong> <br><br>
 <div>
-    <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/sass.png"/> - &nbsp
-    <img align="center" alt="Wesley-Git" height="48" width="48" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> - &nbsp
-    <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img align="center" alt="React" height="48" width="48" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> - &nbsp
+    <img align="center" alt="Firebase" height="48" width="48" src="https://img.icons8.com/color/48/000000/firebase.png"/> - &nbsp
+    <img align="center" alt="Sass" height="48" width="48" src="https://img.icons8.com/color/48/000000/sass.png"/> - &nbsp
+    <img align="center" alt="NodeJS" height="48" width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
