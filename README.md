@@ -31,7 +31,8 @@
 🔥 <strong> Outras ferramentas </strong> <br><br>
 <div>
     <img align="center" alt="React" height="48" width="48" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> - &nbsp
+    <img align="center" alt="NodeJS" height="48" width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/> - &nbsp
+    <img align="center" alt="MongoDB" height="48" width="48" src="https://img.icons8.com/color/48/000000/mongodb.png"/> - &nbsp
     <img align="center" alt="Firebase" height="48" width="48" src="https://img.icons8.com/color/48/000000/firebase.png"/> - &nbsp
-    <img align="center" alt="Sass" height="48" width="48" src="https://img.icons8.com/color/48/000000/sass.png"/> - &nbsp
-    <img align="center" alt="NodeJS" height="48" width="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img align="center" alt="Sass" height="48" width="48" src="https://img.icons8.com/color/48/000000/sass.png"/>
 </div>
