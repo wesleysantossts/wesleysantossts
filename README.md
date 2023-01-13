@@ -14,12 +14,6 @@
  
 <br>
 <div>
-    <a href='https://github.com/wesleysantossts'>
-    <img max-width="45%" height="165em" src="https://github-readme-stats.vercel.app/api?username=wesleysantossts&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" /> <img height="165em" max-width="45%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantossts&amp;layout=compact&amp;langs_count=16&amp;theme=dracula"/></a>
-</div>
-
-<div>
     <br>
     <br>
     <img align="center" alt="Javascript" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"> -
