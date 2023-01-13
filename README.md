@@ -8,8 +8,8 @@
     <a href="mailto:wesley.brazil@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;"></a> 
 </div><br><br>
 
+🌱 Desenvolvedor React e Node.js.<br>
 🎓 Cursando Sistemas para Internet no SENAC.<br>
-🌱 Estudando React e Node.js.<br>
 💻 Compartilhando conteúdos de desenvolvimento (estudos, desafios, projetos) e da vida de dev.
  
 <br>
