@@ -29,5 +29,6 @@
     <img align="center" alt="SQL" height="48" width="48" src="https://img.icons8.com/color/48/000000/sql.png"/> - &nbsp
     <img align="center" alt="MongoDB" height="48" width="48" src="https://img.icons8.com/color/48/000000/mongodb.png"/> - &nbsp
     <img align="center" alt="Firebase" height="48" width="48" src="https://img.icons8.com/color/48/000000/firebase.png"/> - &nbsp
+    <img align="center" alt="Bootstrap" height="48" width="48" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> - &nbsp
     <img align="center" alt="Sass" height="48" width="48" src="https://img.icons8.com/color/48/000000/sass.png"/>
 </div>
