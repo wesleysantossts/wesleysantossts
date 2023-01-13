@@ -8,7 +8,7 @@
     <a href="mailto:wesley.brazil@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;"></a> 
 </div><br><br>
 
-🌱 Desenvolvedor React e Node.js.<br>
+🌱 Desenvolvedor Full Stack React, Node.js e Typescript.<br>
 🎓 Cursando Sistemas para Internet no SENAC.<br>
 💻 Compartilhando conteúdos de desenvolvimento (estudos, desafios, projetos) e da vida de dev.
  
@@ -17,6 +17,7 @@
     <br>
     <br>
     <img align="center" alt="Javascript" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"> -
+    <img align="center" alt="Typescript" height="62" width="62" src="https://img.icons8.com/color/512/typescript.png" style="max-width:100%;"> -
     <img align="center" alt="CSS" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"> -
     <img align="center" alt="HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"> -
     <img align="center" alt="Git" height="48" width="48" src="https://img.icons8.com/color/48/000000/git.png"/> 
