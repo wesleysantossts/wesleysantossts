@@ -8,7 +8,7 @@
 </div><br><br>
 
 🌱 Desenvolvedor Full Stack React, Node.js e Typescript.<br>
-🎓 Cursando Sistemas para Internet no SENAC.<br>
+🎓 Graduado em Sistemas para Internet no SENAC.<br>
 💻 Compartilhando conteúdos de desenvolvimento (estudos, desafios, projetos) e da vida de dev.
  
 <br>
