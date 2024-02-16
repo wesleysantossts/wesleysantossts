@@ -1,4 +1,4 @@
-![image](https://github.com/wesleysantossts/wesleysantossts/assets/56703526/fb0329eb-f94d-49cd-b4ff-2f204c4698a0)# Olá! Sou Wesley Santos e seja bem-vindo(a) ao meu Github!
+# Olá! Sou Wesley Santos e seja bem-vindo(a) ao meu Github!
 
 <div>
     <a href="https://github.com/wesleysantossts"> 
