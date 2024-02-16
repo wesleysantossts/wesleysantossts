@@ -1,4 +1,4 @@
-# Olá! Sou Wesley Santos e seja bem-vindo(a) ao meu Github!
+![image](https://github.com/wesleysantossts/wesleysantossts/assets/56703526/fb0329eb-f94d-49cd-b4ff-2f204c4698a0)# Olá! Sou Wesley Santos e seja bem-vindo(a) ao meu Github!
 
 <div>
     <a href="https://github.com/wesleysantossts"> 
@@ -30,5 +30,7 @@
     <img align="center" alt="MongoDB" height="48" width="48" src="https://img.icons8.com/color/48/000000/mongodb.png"/> - &nbsp
     <img align="center" alt="Firebase" height="48" width="48" src="https://img.icons8.com/color/48/000000/firebase.png"/> - &nbsp
     <img align="center" alt="Bootstrap" height="48" width="48" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> - &nbsp
-    <img align="center" alt="Sass" height="48" width="48" src="https://img.icons8.com/color/48/000000/sass.png"/>
+    <img align="center" alt="Tailwind" height="48" width="48" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/> - &nbsp
+    <img align="center" alt="Sass" height="48" width="48" src="https://img.icons8.com/color/48/000000/sass.png"/> - &nbsp
+    <img align="center" alt="Tailwind" width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" alt="external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo"/>
 </div>
