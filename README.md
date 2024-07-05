@@ -7,7 +7,7 @@
     <a href="mailto:wesley.brazil@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;"></a> 
 </div><br><br>
 
-🌱 Desenvolvedor Full Stack React, Node.js e Typescript.<br>
+🌱 Desenvolvedor Full Stack Pleno Node.js, Typescript, React, SQL e NoSQL.<br>
 🎓 Graduado em Sistemas para Internet no SENAC.<br>
 💻 Compartilhando conteúdos de desenvolvimento (estudos, desafios, projetos) e da vida de dev.
  
