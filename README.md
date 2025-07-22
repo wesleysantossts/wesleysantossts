@@ -9,7 +9,6 @@
 
 🌱 Desenvolvedor Full Stack Pleno Node.js, Typescript, React, SQL e NoSQL.<br>
 🎓 Graduado em Sistemas para Internet e Análise e Desenvolvimento de Sistemas no SENAC.<br>
-💻 Compartilhando conteúdos de desenvolvimento (estudos, desafios, projetos) e da vida de desenvolvedor.
  
 <br>
 <div>
