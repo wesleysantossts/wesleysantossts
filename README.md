@@ -8,4 +8,6 @@
     <a href="mailto:wesleysts.ws@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contato-red?style=for-the-badge" style="max-width:100%;"></a> 
 </div><br><br>
 
-Desenvolvedor com sólida experiência em desenvolvimento de aplicações web e backend utilizando as stacks TypeScript, JavaScript, Node.js, React, Vite, Next.js. Tenho atuado com API RESTful, webhooks, arquitetura MVC, programação orientada a objetos (POO) e bancos de dados SQL e NoSQL (MySQL, PostgreSQL, MongoDB, Redis), aplicando boas práticas e foco em performance.
+Desenvolvedor com sólida experiência em desenvolvimento de aplicações web e backend utilizando as stacks TypeScript, JavaScript, Node.js, React, Vite, Next.js. Tenho atuado com API RESTful, webhooks, arquitetura MVC, programação orientada a objetos (POO) e bancos de dados SQL e NoSQL (MySQL, PostgreSQL, MongoDB, Redis), aplicando boas práticas e foco em performance.<br/><br/>
+Projetos ativos:<br/>
+[Simulador Financiamento](https://simuladorfinanciamento.site/)
